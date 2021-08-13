@@ -1,0 +1,52 @@
+body{
+    color: #333;
+}
+
+/* Fim 960px */
+#wrap{
+    width: 960px;
+    margin: auto;
+    background: #e3e3e3;
+    padding: 10px 20px;
+}
+section nav ul{
+    list-style: none; 
+    padding-left: 0px; 
+}
+section nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+section nav ul li a{
+    font-size: 18px;
+    color: #ff6600;
+    text-decoration: none;
+}
+section nav ul li a:hover{
+    text-decoration: underline;
+}
+#content{
+    float: left;
+   
+    width: 660px;
+}
+#sidebar{
+    float:right;
+
+    width: 300px;
+}
+#sidebar ul{
+    list-style: none;
+}
+#sidebar ul li a{
+    color: #ff6600;
+    text-decoration: none;
+}
+#sidebar ul li a:hover{
+    text-decoration: underline;
+
+}
+
+footer{
+    clear: both;
+}
