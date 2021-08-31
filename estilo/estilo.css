@@ -79,10 +79,12 @@ a:hover{
 .sem-margin{
     margin: 0 !important;
 }
+/* Configuração H */
 h1, h2, h3, h4, h5, h6{
     font-weight: 520;
     margin: 15px 0 10px 0;
 }
+/* Fim Configuração H */
 ul li, ol li{
     margin-bottom: 5px;
 }
